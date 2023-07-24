@@ -6,7 +6,7 @@
 # James Collins, SoIT 
 ###############################
 clear  
-echo " Hello World " 
+echo " Hello World "  # output " Hello World"
 echo $PS1              # output prompt variable 
 echo $PATH          # output current executable path search variable 
 echo $PWD           # output the current working directory variable
